@@ -312,7 +312,7 @@ unsigned int
 EffectView::getSupportQuality(const QString &widgetTypeURI)
 {
     QByteArray bytes = widgetTypeURI.toLatin1();
-    return suil_ui_supported(LV2_UI__Qt4UI, bytes.constData());
+    return suil_ui_supported(LV2_UI__Qt5UI, bytes.constData());
 }
 
 void
@@ -551,7 +551,7 @@ EffectView::setViewData(const EffectViewData &data)
         LV2_Feature *featurePtrs[2];
         featurePtrs[0] = &parentFeature;
         featurePtrs[1] = 0;
-        instance = suil_instance_new(host, this, LV2_UI__Qt4UI,
+        instance = suil_instance_new(host, this, LV2_UI__Qt5UI,
                                      pluginURIBytes.constData(),
                                      widgetURIBytes.constData(),
                                      widgetTypeURIBytes.constData(),
@@ -577,7 +577,7 @@ EffectView::setViewData(const EffectViewData &data)
         // that are unparented.  If the containers are reparented, they don't
         // work.  Later versions will reparent the widget.  So, if we find a
         // QX11EmbedContainer without a parent, we just use the generic UI.
-//FIXME: Qt5 is handled differently in suil 
+//FIXME: Qt5 is handled differently in suil
 #if QT_VERSION < QT_VERSION_CHECK(5, 0, 0)
         QX11EmbedContainer *container =
             qobject_cast<QX11EmbedContainer *>(instanceUI);
