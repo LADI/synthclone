@@ -7,11 +7,8 @@ this data as a sample-based instrument that can be loaded by sampler software.
 
 For more information on `synthclone`, visit:
 
-  http://synthclone.googlecode.com/
-
-The googlecode.com URL is 404, but there is:
-
-  https://github.com/surfacepatterns/synthclone
+  * ~~http://synthclone.googlecode.com/~~ The googlecode.com URL is 404
+  * https://github.com/surfacepatterns/synthclone
 
 All images, save for application logos, are taken from the excellent Oxygen
 Icon Theme.  For more information on the Oxygen Icon Theme, visit:
