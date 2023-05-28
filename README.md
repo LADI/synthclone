@@ -45,7 +45,7 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 
 ## Requirements ##
 
-  * [Qt4](http://qt.nokia.com/)
+  * [Qt5](https://en.wikipedia.org/wiki/Qt_(software))
   * [libsndfile](http://www.mega-nerd.com/libsndfile/)
   * [libsamplerate](http://www.mega-nerd.com/SRC/)
   * [PortAudio](http://www.portaudio.com/) and [PortMidi](http://portmedia.sourceforge.net/portmidi/) (to use the PortMedia sampler plugin)
