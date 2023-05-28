@@ -7,6 +7,7 @@ Contents:
 2. Install Options For Packagers
 3. Packaging Recommendations
 4. Packaging Scripts
+5. Dependencies
 
 1. Install Parts
 ----------------
@@ -108,3 +109,24 @@ the following operating systems:
 
   Debian Linux:
     ./install/build-debian-packages
+
+5. Dependencies
+---------------
+
+qtmake for qt5, default filenname used by configure stage is
+`qmake-qt5`. If qmake is installed with different filename,
+e.g. qtmake5 with Gentoo Linux, one can specify the filename with the
+--qmake configure option, e.g. --qmake=qmake5 with Gentoo Linux.
+
+Qt modules that are required:
+
+ * `core`
+ * `widgets`
+ * `sql` from qtsql (dev-qt/designer with Gentoo Linux)
+ * `uitools` from qtdesigner (dev-qt/designer with Gentoo Linux)
+ * `xml`
+
+Other dependencies:
+
+ * portaudio
+ * portmidi
