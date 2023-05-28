@@ -53,7 +53,10 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 
 ## Downloads ##
 
-> _Latest Release_: December 20, 2012 - [synthclone-0.3.0.tar.gz](http://synthclone.googlecode.com/files/synthclone-0.3.0.tar.gz)
+> _Latest Release_: December 20, 2012
+
+ * ~~[synthclone-0.3.0.tar.gz](http://synthclone.googlecode.com/files/synthclone-0.3.0.tar.gz)~~
+ * [0.3.0 version tag](https://github.com/surfacepatterns/synthclone/releases/tag/version-0.3.0)
 
 > This release includes four new plugins:
 
