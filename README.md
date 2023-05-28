@@ -59,6 +59,7 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 > _Latest Release_: December 20, 2012 - [synthclone-0.3.0.tar.gz](http://synthclone.googlecode.com/files/synthclone-0.3.0.tar.gz)
 
 > This release includes four new plugins:
+
     * lv2: Use LV2 effects inside synthclone.
     * renoise: Save your instruments as Renoise instruments.
     * reverser: A new reverser effect that reverses what you sample.
@@ -104,6 +105,7 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 ## Contributing ##
 
 > There are many ways you can contribute to `synthclone`:
+
     * If you're a developer and think that `synthclone` is missing a feature or two, you can help by writing plugins that extend the functionality of `synthclone`.  `synthclone` has a [plugin API](http://wiki.synthclone.googlecode.com/git/doxygen/index.html) that allows developers to write their own plugins.
     * If you have a good command of one or more languages, you can help by writing much-needed documentation on `synthclone` and the plugins distributed with `synthclone`, or by translating `synthclone`.
     * If you want to donate to `synthclone`, contact the author.
