@@ -60,10 +60,10 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 
 > This release includes four new plugins:
 
-    * lv2: Use LV2 effects inside synthclone.
-    * renoise: Save your instruments as Renoise instruments.
-    * reverser: A new reverser effect that reverses what you sample.
-    * sampleloader: Now, you can load samples into synthclone from your local filesystem.
+  * lv2: Use LV2 effects inside synthclone.
+  * renoise: Save your instruments as Renoise instruments.
+  * reverser: A new reverser effect that reverses what you sample.
+  * sampleloader: Now, you can load samples into synthclone from your local filesystem.
 
 > Please report bugs using the [issue tracker](http://code.google.com/p/synthclone/issues/list).
 
@@ -106,9 +106,9 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 
 > There are many ways you can contribute to `synthclone`:
 
-    * If you're a developer and think that `synthclone` is missing a feature or two, you can help by writing plugins that extend the functionality of `synthclone`.  `synthclone` has a [plugin API](http://wiki.synthclone.googlecode.com/git/doxygen/index.html) that allows developers to write their own plugins.
-    * If you have a good command of one or more languages, you can help by writing much-needed documentation on `synthclone` and the plugins distributed with `synthclone`, or by translating `synthclone`.
-    * If you want to donate to `synthclone`, contact the author.
+  * If you're a developer and think that `synthclone` is missing a feature or two, you can help by writing plugins that extend the functionality of `synthclone`.  `synthclone` has a [plugin API](http://wiki.synthclone.googlecode.com/git/doxygen/index.html) that allows developers to write their own plugins.
+  * If you have a good command of one or more languages, you can help by writing much-needed documentation on `synthclone` and the plugins distributed with `synthclone`, or by translating `synthclone`.
+  * If you want to donate to `synthclone`, contact the author.
 
 ## Acknowledgements ##
 
