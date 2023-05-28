@@ -1,5 +1,23 @@
 # synthclone #
 
+`synthclone` is a Qt-based application that can "clone" your MIDI-capable
+instruments.  It does this by sending out MIDI data that instructs an
+instrument to emit sounds for a series of notes and velocities.  It then saves
+this data as a sample-based instrument that can be loaded by sampler software.
+
+For more information on `synthclone`, visit:
+
+  http://synthclone.googlecode.com/
+
+The googlecode.com URL is 404, but there is:
+
+  https://github.com/surfacepatterns/synthclone
+
+All images, save for application logos, are taken from the excellent Oxygen
+Icon Theme.  For more information on the Oxygen Icon Theme, visit:
+
+  http://www.oxygen-icons.org/
+
 ## What is 'synthclone'? ##
 
 > _synthclone_ is a tool that allows you to create sample-based instruments.  You can create sample-based instruments by sending MIDI messages to your MIDI-capable gear or software that instructs an instrument to emit sounds for a series of notes, velocities, controls, and aftertouch values, or by recording your own samples.  After the sampling is done, you can apply effects to your samples, and finally save this data as a sample-based instrument that can be loaded by sampler software.
@@ -10,9 +28,9 @@
 
 > Here are two screenshots of `synthclone` sampling a drum kit synthesized using the [Drumatic VST](http://www.e-phonic.com/plugins/drumatic3.php):
 
-> ![synthclone-sampling-drumatic.png](synthclone-sampling-drumatic.png)
+> ![synthclone-sampling-drumatic.png](doc/synthclone-sampling-drumatic.png)
 
-> ![synthclone-sampling-drumatic-before-target.png](synthclone-sampling-drumatic-before-target.png)
+> ![synthclone-sampling-drumatic-before-target.png](doc/synthclone-sampling-drumatic-before-target.png)
 
 > ... and [this](http://synthclone.googlecode.com/files/Noisy%20Kit.h2drumkit) is the resulting [Hydrogen](http://www.hydrogen-music.org) drum kit, after using Hydrogen to rename the instruments and set mute groups for the hi-hats.  It's noisy, distorted, and public domain.  That's how I like my drum kits.
 
@@ -99,3 +117,8 @@
 ## Contact ##
 
 > Devin Anderson <surfacepatterns (at) gmail (dot) com>
+
+## See also:
+
+ * Qt5 port by Edgar Aichinger: https://github.com/edogawa23/synthclone
+ * LADI project modifications: https://gitea.ladish.org/LADI/synthclone
