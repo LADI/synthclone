@@ -108,8 +108,6 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
     * If you have a good command of one or more languages, you can help by writing much-needed documentation on `synthclone` and the plugins distributed with `synthclone`, or by translating `synthclone`.
     * If you want to donate to `synthclone` and other causes, join [Flattr](http://www.flattr.net) and donate:
 
-> [![](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/430169/synthclone-Synthesizer-cloning-software)
-
 ## Acknowledgements ##
 
 > This page's format was ruthlessly stolen from the [QjackCtl project page](http://qjackctl.sourceforge.net/).
