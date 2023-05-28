@@ -50,7 +50,7 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
   * [libsamplerate](http://www.mega-nerd.com/SRC/)
   * [PortAudio](http://www.portaudio.com/) and [PortMidi](http://portmedia.sourceforge.net/portmidi/) (to use the PortMedia sampler plugin)
   * [JACK Audio Connection Kit](http://www.jackaudio.org/) (to use the JACK sampler plugin)
-  * [libarchive](https://libarchive.org/) (to use the Hydrogen plugin)
+  * [libarchive](http://libarchive.org/) (to use the Hydrogen plugin)
   * [Lilv](http://drobilla.net/software/lilv.html) and [Suil](http://drobilla.net/software/suil.html) (to use the LV2 effect plugin)
   * [libzip](http://www.nih.at/libzip/) (to use the Renoise plugin)
 
