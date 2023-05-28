@@ -116,7 +116,9 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 
 ## Contact ##
 
-> Devin Anderson <surfacepatterns (at) gmail (dot) com>
+ * Devin Anderson <surfacepatterns (at) gmail (dot) com>
+ * [synthclone-users google group](http://groups.google.com/group/synthclone-users)
+ * For LADI project modifications you can use [Libera.Chat](https://libera.chat/) channel #ladi
 
 ## See also:
 
