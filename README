@@ -7,7 +7,16 @@ For more information on `synthclone`, visit:
 
   http://synthclone.googlecode.com/
 
+The googlecode.com URL is 404, but there is:
+
+  https://github.com/surfacepatterns/synthclone
+
 All images, save for application logos, are taken from the excellent Oxygen
 Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 
   http://www.oxygen-icons.org/
+
+See also:
+
+ * Qt5 port by Edgar Aichinger: https://github.com/edogawa23/synthclone
+ * LADI project modifications: https://gitea.ladish.org/LADI/synthclone
