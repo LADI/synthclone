@@ -10,9 +10,9 @@
 
 > Here are two screenshots of `synthclone` sampling a drum kit synthesized using the [Drumatic VST](http://www.e-phonic.com/plugins/drumatic3.php):
 
-> ![http://synthclone.googlecode.com/files/synthclone-sampling-drumatic.png](http://synthclone.googlecode.com/files/synthclone-sampling-drumatic.png)
+> ![synthclone-sampling-drumatic.png](synthclone-sampling-drumatic.png)
 
-> ![http://synthclone.googlecode.com/files/synthclone-sampling-drumatic-before-target.png](http://synthclone.googlecode.com/files/synthclone-sampling-drumatic-before-target.png)
+> ![synthclone-sampling-drumatic-before-target.png](synthclone-sampling-drumatic-before-target.png)
 
 > ... and [this](http://synthclone.googlecode.com/files/Noisy%20Kit.h2drumkit) is the resulting [Hydrogen](http://www.hydrogen-music.org) drum kit, after using Hydrogen to rename the instruments and set mute groups for the hi-hats.  It's noisy, distorted, and public domain.  That's how I like my drum kits.
 
