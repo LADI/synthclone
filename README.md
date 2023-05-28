@@ -23,7 +23,7 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 
 ## Screenshots ##
 
-> Here are two screenshots of `synthclone` sampling a drum kit synthesized using the [Drumatic VST](http://www.e-phonic.com/plugins/drumatic3.php):
+> Here are two screenshots of `synthclone` sampling a drum kit synthesized using the [Drumatic VST](https://www.e-phonic.com/drumatic.html):
 
 > ![synthclone-sampling-drumatic.png](doc/synthclone-sampling-drumatic.png)
 
