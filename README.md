@@ -106,7 +106,7 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 > There are many ways you can contribute to `synthclone`:
     * If you're a developer and think that `synthclone` is missing a feature or two, you can help by writing plugins that extend the functionality of `synthclone`.  `synthclone` has a [plugin API](http://wiki.synthclone.googlecode.com/git/doxygen/index.html) that allows developers to write their own plugins.
     * If you have a good command of one or more languages, you can help by writing much-needed documentation on `synthclone` and the plugins distributed with `synthclone`, or by translating `synthclone`.
-    * If you want to donate to `synthclone` and other causes, join [Flattr](http://www.flattr.net) and donate:
+    * If you want to donate to `synthclone`, contact the author.
 
 ## Acknowledgements ##
 
