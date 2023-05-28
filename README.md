@@ -86,7 +86,7 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 
 > Eventually, I'd like to have enough documentation that I wouldn't be able to list it all here.  For now, here it is:
 
-  * [Video Tutorial on `synthclone`](http://vimeo.com/73053302) by Glen MacArthur, the creator of [AVLinux](http://www.bandshed.net/AVLinux.html).
+  * [Video Tutorial on `synthclone`](http://vimeo.com/73053302) by Glen MacArthur, the creator of [AVLinux](http://www.bandshed.net/avlinux/).
   * There's some documentation on a couple plugins on [the wiki](http://code.google.com/p/synthclone/w/list).
   * [Doxygen-generated documentation for the developer API](http://wiki.synthclone.googlecode.com/git/doxygen/index.html).
   * [Tutorial on Writing Plugins](http://code.google.com/p/synthclone/wiki/TutorialWritingASimplePluginPart1)
