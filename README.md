@@ -89,7 +89,7 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
   * [Video Tutorial on `synthclone`](http://vimeo.com/73053302) by Glen MacArthur, the creator of [AVLinux](http://www.bandshed.net/avlinux/).
   * There's some documentation on a couple plugins on [the wiki](http://code.google.com/p/synthclone/w/list).
   * [Doxygen-generated documentation for the developer API](http://wiki.synthclone.googlecode.com/git/doxygen/index.html).
-  * [Tutorial on Writing Plugins](http://code.google.com/p/synthclone/wiki/TutorialWritingASimplePluginPart1)
+  * `Writing A Simple Plugin` tutorial, [part 1](doc/TutorialWritingASimplePluginPart1.md) & [part 2](doc/TutorialWritingASimplePluginPart2.md)
 
 
 > If you're interested in helping by writing documentation, then join the [user group](http://groups.google.com/group/synthclone-users), and send me a message.
@@ -106,7 +106,7 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 
 > There are many ways you can contribute to `synthclone`:
 
-  * If you're a developer and think that `synthclone` is missing a feature or two, you can help by writing plugins that extend the functionality of `synthclone`.  `synthclone` has a [plugin API](http://wiki.synthclone.googlecode.com/git/doxygen/index.html) that allows developers to write their own plugins.
+  * If you're a developer and think that `synthclone` is missing a feature or two, you can help by writing plugins that extend the functionality of `synthclone`.  `synthclone` has a [plugin API](http://wiki.synthclone.googlecode.com/git/doxygen/index.html) that allows developers to write their own plugins. See also the `Writing A Simple Plugin` tutorial, [part 1](doc/TutorialWritingASimplePluginPart1.md) & [part 2](doc/TutorialWritingASimplePluginPart2.md)
   * If you have a good command of one or more languages, you can help by writing much-needed documentation on `synthclone` and the plugins distributed with `synthclone`, or by translating `synthclone`.
   * If you want to donate to `synthclone`, contact the author.
 
