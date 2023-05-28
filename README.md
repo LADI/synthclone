@@ -69,7 +69,7 @@ Icon Theme.  For more information on the Oxygen Icon Theme, visit:
 
 ## Installation ##
 
-> _synthclone_ currently requires [a Python interpreter](http://www.python.org/), [doxygen](http://www.doxygen.org/), and [qmake](http://developer.qt.nokia.com/wiki/Category:Tools::qmake) for building.  To build the software, execute the commands:
+> _synthclone_ currently requires [a Python interpreter](http://www.python.org/), [doxygen](http://www.doxygen.org/), and [qmake](https://doc.qt.io/qt-5/qmake-manual.html::qmake fromQt5) for building.  To build the software, execute the commands:
 
 ```
   ./configure --prefix=/usr
